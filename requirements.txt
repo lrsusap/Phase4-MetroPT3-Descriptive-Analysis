@@ -1,0 +1,9 @@
+# MetroPT3 — Phase 4: Solution Implementation and Descriptive Analysis
+# Versions recorded in the technical report for the Google Colab execution.
+# Python 3 and a compatible environment are required.
+# Google Colab-specific modules (google.colab) are supplied by Colab,
+# not installed through this requirements file.
+
+pandas==2.2.3
+numpy==2.1.3
+matplotlib==3.10.0
